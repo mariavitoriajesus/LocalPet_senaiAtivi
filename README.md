@@ -1,1 +1,3 @@
-# LocalPet_senaiAtivi
+# LocalPet seu app de rastreamento favorito
+
+## em construção
